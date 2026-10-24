@@ -43,6 +43,10 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.9 — 2026-10-24
+
+- **Delivery boxes pick up in one click.** One tap used to pick the box up and put it straight back down, so it crept a little each time.
+
 ### 0.11.26.8 — 2026-10-24
 
 - **When the change machine runs dry, the day pauses for a lesson:** customers and the clock stop, you empty a coin box and refill
