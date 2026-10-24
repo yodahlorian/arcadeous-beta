@@ -43,6 +43,16 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.6 — 2026-10-24
+
+- **New icon:** a neon quarter with the Arcadeous A stamped in it.
+- **The pause menu pauses the game**, says PAUSED, and sits centred under it; ✕ BACK closes it.
+- **Report a bug** no longer pushes the menu off the bottom of the screen — its message shows below the menu.
+- The build menu can no longer be shut by a stray back press while it is still opening.
+- **Settings → Display & Touch scrolls** — every setting can be reached.
+- The money / day / time bar is centred on its text, and it no longer follows you back to the main menu.
+- No Quit button on the phone's main menu (iOS apps leave with the home gesture — the button did nothing).
+
 ### 0.11.26.5 — 2026-10-23
 
 - **Coin collection works on the phone.** A quick tap on the right is USE even when the frame rate dips in a full arcade — it
