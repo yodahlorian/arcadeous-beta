@@ -43,6 +43,15 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.7 — 2026-10-24
+
+- **Every door works the same way: open it → click to do the job → click to shut it.** Cabinet coin doors, monitors and the
+  change machine. The menu only opens the door; emptying the coins, pulling a dead part and fitting a new one are clicks on
+  the open machine, one job per click. The tutorial cards say it the same way.
+- **Cash boxes hold $625** — more than a full change machine can hand out, so the changer runs dry (and is refilled from the boxes) before a box can fill and stop its machine. A busy first day no longer stops the whole floor.
+- **A cash box pays out the right number of quarters** — $1.00 in the box is 4 quarters in your pocket (it was paying 100).
+- "Diagnose a fault" no longer claims a machine is dead before one is: it tells you to open for the day and find it.
+
 ### 0.11.26.6 — 2026-10-24
 
 - **New icon:** a neon quarter with the Arcadeous A stamped in it.
