@@ -1,9 +1,73 @@
 # Arcadeous — iPhone beta
 
-Run your own arcade: build the floor, buy cabinets, play every machine.
+**Own an arcade. Play every machine.**
 
-**Install:** add the Devious Developments source in SideStore
-`https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/source.json` — Arcadeous appears beside Killer 2s and updates arrive by themselves.
-Or sideload the `.ipa` from [Releases](../../releases/latest) (one file, always the newest).
+[![This beta](https://img.shields.io/github/downloads/yodahlorian/arcadeous-beta/latest/total?label=this%20beta&color=38c8ff)](../../releases/latest)
+[![Earlier betas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyodahlorian%2Farcadeous-beta%2Fmain%2Fdownloads.json&query=%24.retired&label=earlier%20betas&color=6a7f99)](downloads.json)
 
-Touch controls: left thumb moves (or steers the joystick in a cabinet), drag on the right to look, the on-screen buttons are the cabinet's buttons. Menus are plain taps.
+Downloads count AltStore / SideStore installs and direct downloads together.
+
+Run your own arcade: build the floor, buy cabinets, keep them working, empty the coin boxes — and play every machine yourself,
+from the fighter dojo to the claw. Beta by **Devious Developments**.
+
+**Play on PC:** [github.com/yodahlorian/arcadeous](https://github.com/yodahlorian/arcadeous/releases/latest)
+
+## Install with AltStore (updates itself)
+
+1. In **AltStore** → **Sources** → **+**, add this source:
+   `https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/source.json`
+2. Open **Devious Developments** → **Arcadeous** → **Free / Get**. New betas show up as updates.
+
+## Or SideStore (refreshes anywhere, no computer after setup)
+
+Add the same source in **[SideStore](https://sidestore.io)** → Sources → +. It works exactly like AltStore.
+
+## Or Sideloadly (Windows / macOS)
+
+1. Install **[Sideloadly](https://sideloadly.io)** on your computer (Windows also needs iTunes from apple.com, not the Microsoft Store).
+2. Download the newest `Arcadeous-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
+3. Plug your iPhone in with a cable, unlock it and tap **Trust** if it asks.
+4. Open Sideloadly, drag the `.ipa` onto it, enter your Apple ID and press **Start**.
+5. On the phone: **Settings → General → VPN & Device Management** → tap your Apple ID → **Trust**.
+6. iOS 16 and newer: **Settings → Privacy & Security → Developer Mode** → on (the phone restarts).
+7. Open Arcadeous and play in landscape. To update, repeat steps 2–4 with the new `.ipa`.
+
+A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta replaces the file (one release, one file).
+
+## Touch controls
+
+Left thumb moves (or steers the joystick in a cabinet), drag on the right to look, tap on the right to use. The on-screen
+buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-right.
+
+## Changelog
+
+
+
+### 0.11.26.5 — 2026-10-23
+
+- **Coin collection works on the phone.** A quick tap on the right is USE even when the frame rate dips in a full arcade — it
+  used to read as a look, so the coin door never opened.
+- **Menus:** the tap after a menu pick is no longer swallowed (it was eating the coin door and the change drawer on every second visit).
+- **Back room rearranged:** the four supply shelves, then the workbench, in one line on the side wall; the bin across the aisle;
+  the ordering computer on the back wall. Every shelf can be reached now.
+- **Whatever you stand nearest is what a tap uses** — computer, bench, bin or shelf. No more pinpointing.
+
+### 0.11.26.4 — 2026-10-23
+
+- SideStore now sees every phone build as an update (the version carries the build number).
+
+### 0.11.26.3 — 2026-10-23
+
+- **The Claw and the Coin Pusher:** an on-screen stick and a DROP button; their prompts speak touch ("tap DROP").
+- **Money shows once**, in the top bar — a faint second copy behind it is gone (on PC too). Ticket and prize counts sit under the bar.
+- Every bespoke machine has touch labels (stick, d-pad, its own button words); the prize shelf has PULL and BENCH SLOT.
+- Placing a machine: PLACE · TURN · ◀ ▶ colour · ✕, with icons; no colour change while moving one.
+- Settings → **Display & Touch:** button size, transparency, left-handed layout, look sensitivity.
+- HUD centred on the phone; ✕ BACK on every menu, bottom-right; the build menu no longer flashes shut.
+- "BUILDING YOUR ARCADE…" while the world loads; the pause menu shows money properly; bug reports save to the Files app.
+
+### 0.11.26.1 – 0.11.26.2 — 2026-10-23
+
+- **First iPhone builds.** An on-screen controller: left thumb moves (rim = sprint), drag right to look, tap right to use,
+  BUILD, DUCK, ☰. Cabinets get their own buttons; menus are plain taps, swipe to scroll.
+- Text fields lift above the keyboard; the arcade letter grid types on a tap.
