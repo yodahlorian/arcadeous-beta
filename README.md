@@ -43,6 +43,16 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.8 — 2026-10-24
+
+- **When the change machine runs dry, the day pauses for a lesson:** customers and the clock stop, you empty a coin box and refill
+  the changer (open → click → shut, both), and the day carries on — with a card on how the coin loop works. Once, the first time.
+- **Change machines from day one:** the licence is included — it is first in the build menu before you own any game, and the
+  licences page shows it. $250 each, charged when you place it (it was charging $2.50), refunded if you cancel.
+- **The prize shelf is unreleased again:** it is no longer sold (new or used), and as furniture it has no parts that can break.
+- **The bill stacker fills up:** it holds 150% of a full hopper's value ($750). A full stacker takes no more notes — empty the
+  bill mech to bank them.
+
 ### 0.11.26.7 — 2026-10-24
 
 - **Every door works the same way: open it → click to do the job → click to shut it.** Cabinet coin doors, monitors and the
