@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.10 — 2026-10-25
+
+- **The pause menu stays open.** Tapping ☰ opened it and closed it again straight away — the menu read your finger, still
+  on the button, as a second press. A button you are holding when the screen changes now counts only once you let go.
+
 ### 0.11.26.9 — 2026-10-24
 
 - **Delivery boxes pick up in one click.** One tap used to pick the box up and put it straight back down, so it crept a little each time.
