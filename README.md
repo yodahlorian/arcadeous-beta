@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.13 — 2026-10-26
+
+- **A change machine in a corner works again.** You could only use it from its side, so tucked into a corner with that side
+  against a wall it couldn't be reached at all. Now you stand at its front, like every other machine.
+- **The price list shows the new price straight away.** After you picked a price, the list still marked the old one as current.
+
 ### 0.11.26.12 — 2026-10-26
 
 - **You can charge a real price for a game.** The price list stopped at 5 cents. It now runs from FREE up to $2.50 in
