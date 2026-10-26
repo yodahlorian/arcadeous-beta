@@ -43,6 +43,15 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.27.1 — 2026-10-26
+
+- **Used cabinets get their own spot.** Every used machine was set down on the same spot, so a second one landed on top of
+  the first and looked like it had replaced it. Each one now goes to the next free space on your floor, like a new machine.
+  If there is no free space, the sale doesn't go through and nothing is charged.
+- **Used cabinets can be moved.** MOVE THIS CABINET was greyed out on them ("part of the fittings"). It works now, including on
+  one you already bought — so two that ended up on one spot can be pulled apart.
+- The PC and iPhone builds share one version again: this is the game at 0.11.27.
+
 ### 0.11.26.13 — 2026-10-26
 
 - **A change machine in a corner works again.** You could only use it from its side, so tucked into a corner with that side
