@@ -1,5 +1,5 @@
 {
- "retired": 14,
+ "retired": 16,
  "history": [
   {
    "asset": "Arcadeous-0.11.26.ipa",
@@ -30,6 +30,11 @@
    "asset": "Arcadeous-0.11.26.9.ipa",
    "downloads": 4,
    "retired": "2026-10-25 19:15:40"
+  },
+  {
+   "asset": "Arcadeous-0.11.26.10.ipa",
+   "downloads": 2,
+   "retired": "2026-10-25 21:56:37"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct)"

@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.11 — 2026-10-25
+
+- **Quarters no longer run out.** Customers used to change their whole wallet into quarters at the door and walk out with whatever
+  they didn't spend — about a third of your change machine's float, every day, until it ran dry by day four. Now they only take
+  the quarters they actually play, so the store's quarters stay in the store.
+- **Some customers bring their own quarters** and spend those first, so your float slowly grows instead of shrinking.
+
 ### 0.11.26.10 — 2026-10-25
 
 - **The pause menu stays open.** Tapping ☰ opened it and closed it again straight away — the menu read your finger, still
