@@ -43,6 +43,14 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.26.12 — 2026-10-26
+
+- **You can charge a real price for a game.** The price list stopped at 5 cents. It now runs from FREE up to $2.50 in
+  quarters, and every machine's normal price is on it. A game you set to a few cents in an older build is moved up to the
+  matching quarter price when you load.
+- **Swiping a menu no longer picks the row under your finger.** A row is chosen when you tap it and let go. A swipe turns the
+  page, one page per swipe, on long lists like the build menu.
+
 ### 0.11.26.11 — 2026-10-25
 
 - **Quarters no longer run out.** Customers used to change their whole wallet into quarters at the door and walk out with whatever
