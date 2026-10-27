@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.28.6 — 2026-10-27
+
+- **Your own music on the radio, on the phone.** The radio said to drop songs into an "Arcadeous" folder that an iPhone doesn't
+  have. Put them in the Files app under On My iPhone › Arcadeous › music, and the radio says so. (Thanks to the tester who sent
+  this with /bug.)
+
 ### 0.11.28.5 — 2026-10-27
 
 - **Cabinets keep their art.** After you left a game or bought from the ArcadeList, every machine on the floor turned white:
