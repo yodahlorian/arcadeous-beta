@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.28.2 — 2026-10-27
+
+- **The whole shop speaks phone, not just the games.** Your task card, the out-of-quarters lesson, the pop-up notices and the
+  celebration screen still said "click" and "Esc". They now say tap, USE, BACK and the other words on your buttons.
+- **Swiping long menus works in a busy arcade.** With a full floor the game can slow down, and a quick swipe on a long list
+  (like the build menu) was read as too slow, so the page didn't turn. A quick swipe turns the page however busy it gets.
+
 ### 0.11.28.1 — 2026-10-26
 
 - **Every game speaks phone.** The cabinets' button legend, "PRESS ENTER TO PLAY" and How to Play named keyboard keys
