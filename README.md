@@ -43,6 +43,14 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.28.5 — 2026-10-27
+
+- **Cabinets keep their art.** After you left a game or bought from the ArcadeList, every machine on the floor turned white:
+  the shop rebuilt itself, and the new cabinets were copied from ones whose artwork had just been thrown away. Each rebuild now
+  paints its own. (Thanks to the tester who sent this with /bug.)
+- **Typing never hides behind the keyboard.** Some text boxes didn't move up when the phone's keyboard opened, so you typed
+  into a box you couldn't see. Every one lifts above it now.
+
 ### 0.11.28.4 — 2026-10-27
 
 - **The ArcadeList says when a licence is included.** A used cabinet for a game you haven't licensed yet costs the cabinet plus
