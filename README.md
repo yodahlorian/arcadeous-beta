@@ -43,6 +43,14 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.28.3 — 2026-10-27
+
+- **A cabinet's cash box counts quarters.** Standing at a machine showed its takings in cents ("100 coins" for $1.00). It now
+  reads "4 quarters ($1.00)", which is what you get when you empty it. (Thanks to the tester who sent this with /bug.)
+- **▶ starts every game.** On the 3D machines (the ones with rounds) the ▶ button in the corner did nothing — only their main
+  button started a round. It starts all of them now.
+- **✕ BACK in the shop console goes back a page.** It used to throw you out of the console altogether.
+
 ### 0.11.28.2 — 2026-10-27
 
 - **The whole shop speaks phone, not just the games.** Your task card, the out-of-quarters lesson, the pop-up notices and the
