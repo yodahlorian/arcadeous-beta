@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.27.2 — 2026-10-26
+
+- **CANCEL cancels.** Moving a cabinet and tapping CANCEL opened the pause menu and left the cabinet in your hands. Now it puts
+  the cabinet back where it was and the game carries on. (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.27.1 — 2026-10-26
 
 - **Used cabinets get their own spot.** Every used machine was set down on the same spot, so a second one landed on top of
