@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.28.4 — 2026-10-27
+
+- **The ArcadeList says when a licence is included.** A used cabinet for a game you haven't licensed yet costs the cabinet plus
+  that game's licence, and the button showed that total with no word about the licence, so it looked like the wrong price.
+  Each row now reads "+ $180.00 licence" and the button "buy + licence — $293.26". (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.28.3 — 2026-10-27
 
 - **A cabinet's cash box counts quarters.** Standing at a machine showed its takings in cents ("100 coins" for $1.00). It now
