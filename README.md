@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.33.1 — 2026-10-29
+
+- **Your technician gets in through the front door.** Before you open for the day, the doors only swung for you, so a hired
+  technician walked into a shut door, and if you came up behind them it swung into them. The doors now open for anyone
+  walking through and stay open until they are clear. (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.32.1 — 2026-10-29
 
 - **The ticket machines are really here now.** 0.11.29 to 0.11.31 opened the redemption booth at level 10 but left every
