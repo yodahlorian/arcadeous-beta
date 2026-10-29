@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.31.1 — 2026-10-29
+
+- **Ticket machines are priced to earn their keep.** They used to cost nearly three times a video cabinet and earn about the
+  same, so one took about 55 days to pay for itself. Every ticket machine and The Claw now costs about half, and pays back in
+  about a month. At default prices and payout a ticket machine earns what a video cabinet does.
+- **A toy at the booth costs 150 tickets** (was 130), so the prizes your customers take home stay a fair share of what they spent.
+
 ### 0.11.30.1 — 2026-10-29
 
 - **The redemption booth opens with the ticket machines, at level 10.** It used to open a level later, so the first tickets your
