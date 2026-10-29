@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.34.1 — 2026-10-29
+
+- **Used cabinets never land inside a wall.** Once the walls filled up, a used cabinet could be set down in the corner by the
+  back room, half inside the wall, where nobody could reach it. Every used cabinet now goes to a spot with room for it and room
+  to stand at it. If there's no such spot left, the ArcadeList won't sell it, and nothing is charged. (Thanks to the tester who
+  sent this with /bug.)
+
 ### 0.11.33.1 — 2026-10-29
 
 - **Your technician gets in through the front door.** Before you open for the day, the doors only swung for you, so a hired
