@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.35.1 — 2026-10-29
+
+- **A cabinet stuck in a wall is moved out.** Shops saved before 0.11.34 could still hold a used cabinet set into the back-room
+  wall, where nobody could reach it. Load your game and it's moved to the nearest free spot on the floor, ready to use. Nothing
+  else moves. (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.34.1 — 2026-10-29
 
 - **Used cabinets never land inside a wall.** Once the walls filled up, a used cabinet could be set down in the corner by the
