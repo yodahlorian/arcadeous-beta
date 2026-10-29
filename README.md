@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.30.1 — 2026-10-29
+
+- **The redemption booth opens with the ticket machines, at level 10.** It used to open a level later, so the first tickets your
+  customers won had nowhere to go.
+
 ### 0.11.29.1 — 2026-10-29
 
 **The ticket tier opens.** From level 10 your arcade gets ticket machines, a redemption booth and the prize shelf.
@@ -53,7 +58,7 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
   turns amber, open the ticket door from the machine's menu and click to put a new roll on. An empty roll pays nobody, and
   customers notice.
 - **Set each ticket machine's payout** from its menu. A stingy machine earns the same and puts people off.
-- **The redemption booth (level 11).** Customers who leave happy trade their tickets at the counter for a toy. Keep its
+- **The redemption booth (level 10, with the first ticket machine).** Customers who leave happy trade their tickets at the counter for a toy. Keep its
   shelves stocked from the counter's menu: an empty booth sends people home disappointed.
 - **The prize shelf (level 15).** Pull a guaranteed new piece for your collection with tickets or cash, choose six for the
   display case, and see what your toys are doing for the shop. Every piece you own gives a bonus: cheaper rent and power,

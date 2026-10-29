@@ -90,6 +90,11 @@
    "asset": "Arcadeous-0.11.28.6.ipa",
    "downloads": 3,
    "retired": "2026-10-29 09:58:50"
+  },
+  {
+   "asset": "Arcadeous-0.11.29.1.ipa",
+   "downloads": 0,
+   "retired": "2026-10-29 10:21:23"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct)"
