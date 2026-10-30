@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.40.1 — 2026-10-30
+
+- **Back no longer closes the game on Android.** The system Back swipe or button quit Arcadeous on the spot, mid-shift. It
+  now works like the game's own back: it closes the open menu, or pauses on the floor.
+
 ### 0.11.39.1 — 2026-10-30
 
 - **Swapping buttons tells you what moved.** Swapping two buttons in Settings › Controller moves BOTH jobs, so swapping A
