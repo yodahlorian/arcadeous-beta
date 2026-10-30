@@ -43,6 +43,15 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.43.1 — 2026-10-30
+
+- **No more invisible machines on phones.** On some phones a machine could stop being drawn while still standing there — a
+  change machine became an invisible wall in the middle of the floor, and a racing cabinet lost its lower half up close.
+  Phones now draw every machine in view. (Thanks to the tester who sent this with /bug.)
+- **A swipe no longer throws you out of a game.** Mid-round on a phone or a controller, Back (the Android Back swipe, or B)
+  now asks first: press it again within two seconds to leave. Before, one Back mid-fight quit the cabinet. (Thanks to the
+  tester who sent this with /bug.)
+
 ### 0.11.42.1 — 2026-10-30
 
 - **A red pad says why.** Moving or placing a machine on a red pad used to say only "something is in the way", even on
