@@ -170,6 +170,16 @@
    "asset": "Arcadeous-0.11.40.1.apk",
    "downloads": 2,
    "retired": "2026-10-30 14:00:35"
+  },
+  {
+   "asset": "Arcadeous-0.11.41.2.ipa",
+   "downloads": 0,
+   "retired": "2026-10-30 14:11:21"
+  },
+  {
+   "asset": "Arcadeous-0.11.41.1.apk",
+   "downloads": 0,
+   "retired": "2026-10-30 14:11:21"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct)"

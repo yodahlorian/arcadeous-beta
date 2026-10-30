@@ -43,7 +43,7 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
-### 0.11.41.1 — 2026-10-30
+### 0.11.41.3 — 2026-10-30
 
 - **Only Menu pauses.** On the floor, B no longer opens the pause menu — so swapping A with B in Settings › Controller can
   never put Pause on A. The pause menu is on Menu (OPTIONS / + on other pads), which no swap moves. B still cancels moving a
