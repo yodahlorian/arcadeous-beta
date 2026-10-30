@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.37.1 — 2026-10-30
+
+- **Bluetooth controllers on your phone.** Pick up a pad and every prompt names its buttons instead of the touch controls,
+  and the on-screen controls step aside; touch the screen and they come back.
+- **Remap your controller.** Settings has a new Controller tab: press Change, then the button you want. The two buttons swap,
+  so nothing can ever end up unreachable. Every prompt shows your new layout.
+
 ### 0.11.36.1 — 2026-10-29
 
 - **Every game tells you the touch controls.** Some games, Sky Lance among them, still gave PC instructions on the phone ("Press
