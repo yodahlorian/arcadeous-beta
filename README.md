@@ -43,6 +43,16 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.36.1 — 2026-10-29
+
+- **Every game tells you the touch controls.** Some games, Sky Lance among them, still gave PC instructions on the phone ("Press
+  SPACE …"). Every game's hints and messages now name the controls in your hand: the on-screen stick and buttons on the phone,
+  the buttons on a controller. (Thanks to the tester who sent this with /bug.)
+- **Your wall design is on every wall.** Some walls kept the old colour when you picked a new wall design: the street wall, the
+  back room's walls, and the strip over its door. And a saved shop came back with the design on none of them until you changed
+  it again. Every wall now takes the design, and a loaded shop shows it straight away. (Thanks to the tester who sent this with
+  /bug.)
+
 ### 0.11.35.1 — 2026-10-29
 
 - **A cabinet stuck in a wall is moved out.** Shops saved before 0.11.34 could still hold a used cabinet set into the back-room
