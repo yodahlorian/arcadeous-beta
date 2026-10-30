@@ -43,6 +43,15 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.41.1 — 2026-10-30
+
+- **Only Menu pauses.** On the floor, B no longer opens the pause menu — so swapping A with B in Settings › Controller can
+  never put Pause on A. The pause menu is on Menu (OPTIONS / + on other pads), which no swap moves. B still cancels moving a
+  machine and still closes menus. (Thanks to the tester who sent this with /bug.)
+- **Racing cabinets stay solid up close.** Walking up to a cabinet with a steering wheel made its lower half vanish and
+  flicker, showing the floor through it. The seat, wheel, pedals and plate now stay drawn at any distance. (Thanks to the
+  tester who sent this with /bug.)
+
 ### 0.11.40.1 — 2026-10-30
 
 - **Back no longer closes the game on Android.** The system Back swipe or button quit Arcadeous on the spot, mid-shift. It
