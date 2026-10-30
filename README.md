@@ -43,6 +43,22 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.38.1 — 2026-10-30
+
+- **Cloud saves: your arcade on every device.** Main menu › CLOUD SAVES: type your email, then the 6-digit code we send.
+  No password, ever. Your saves follow you between PC, iPhone, iPad and Android, and a newer save is never overwritten
+  without asking. We never store your email address, and deleting your account is immediate and permanent.
+- **Full screen on phones and iPads.** No more black bars: the arcade fills the screen and the menus stay where your thumbs
+  can reach them.
+- **Cabinet games show the whole screen.** The game was shifted right in the cabinet view and its right edge was cut off
+  (scores, the ends of hints). It's centred now.
+- **Real racing cabinets.** Pole Run, Chase Car and Coast Run now stand in stand-up racing cabinets, the way their originals
+  did: a wheel, a gear stick, pedals on a plate, and nine paint schemes. Customers pay at the coin door, step up and drive,
+  both hands on the wheel, shifting now and then.
+- **The parts shelf shows what's really on it.** When your technician took a part for a repair, the shelf kept showing it
+  until you touched the stock yourself. It updates the moment anyone takes or puts back a part now. (Thanks to the tester who
+  sent this with /bug.)
+
 ### 0.11.37.1 — 2026-10-30
 
 - **Bluetooth controllers on your phone.** Pick up a pad and every prompt names its buttons instead of the touch controls,
