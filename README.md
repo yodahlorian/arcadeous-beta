@@ -43,6 +43,18 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.42.1 — 2026-10-30
+
+- **A red pad says why.** Moving or placing a machine on a red pad used to say only "something is in the way", even on
+  open floor. It now says the reason: too close to a machine, keep the doorway clear, or customers could not reach a
+  machine past it (the aisle in front of a row is where its players stand). (Thanks to the tester who sent this with /bug.)
+- **Change machines move again.** The change machine's menu has MOVE THE CHANGE MACHINE, like every cabinet's. Before, the
+  one you inherit could only be moved once, and a change machine you bought could never be moved. (Thanks to the tester who
+  sent this with /bug.)
+- **Android tells the truth about your own music.** The radio told Android players to drop mp3s in an iPhone folder. Android
+  has no folder like that yet, so it now says the house stations play; the bug-report button points to /bug in our Discord.
+  (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.41.3 — 2026-10-30
 
 - **Only Menu pauses.** On the floor, B no longer opens the pause menu — so swapping A with B in Settings › Controller can
