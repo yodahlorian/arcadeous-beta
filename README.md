@@ -43,6 +43,17 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.45.1 — 2026-10-31
+
+- **Your shop's name, in any colour.** The computer's Decor app has a new Shop name box: pick any colour you like for the name on
+  the wall inside and for the name over the front door, each on its own. It changes the moment you pick; Default puts the
+  pink back.
+- **Back closes, it doesn't also pause.** Closing a menu, cancelling a move, or tapping the on-screen CANCEL could close the
+  thing AND open the pause menu with the same press. One press now does one thing. (Thanks to the tester who sent this with
+  /bug.)
+- **Staff pay shows dollars and cents.** The console listed a trainee as "450/day"; it now reads "$4.50/day", the same as
+  the Hire button. (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.44.1 — 2026-10-31
 
 - **One controller press is one press.** Many Bluetooth controllers make Android send its own Back as well as their B (on a
