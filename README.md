@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.46.1 — 2026-10-31
+
+- **No more invisible wall.** Moving a machine could carry the shop's floor with it: the solid part of the floor was set down
+  where the machine went, leaving an invisible ledge across the middle of the shop that stopped you (and confused customers and
+  the build pad) until you restarted. The floor now stays where it is. (Thanks to the tester who sent this with /bug, and who
+  shared their cloud save so we could find it.)
+
 ### 0.11.45.1 — 2026-10-31
 
 - **Your shop's name, in any colour.** The computer's Decor app has a new Shop name box: pick any colour you like for the name on
