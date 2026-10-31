@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.44.1 — 2026-10-31
+
+- **One controller press is one press.** Many Bluetooth controllers make Android send its own Back as well as their B (on a
+  Nintendo-style pad that is the button marked A), so one press both did its job and paused the game — or left a cabinet.
+  The extra Back is now ignored; the button does only what Settings › Controller says. (Thanks to the tester who sent this
+  with /bug.)
+
 ### 0.11.43.1 — 2026-10-30
 
 - **No more invisible machines on phones.** On some phones a machine could stop being drawn while still standing there — a
