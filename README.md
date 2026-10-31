@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.47.1 — 2026-10-31
+
+- **Your staff stay put while you play.** Playing a game at a cabinet made every member of staff walk out and come back in
+  through the front door when you stepped away from it. They now carry on exactly where they were. (Thanks to the tester who
+  sent this with /bug.)
+
 ### 0.11.46.1 — 2026-10-31
 
 - **No more invisible wall.** Moving a machine could carry the shop's floor with it: the solid part of the floor was set down
