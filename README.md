@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.49.1 — 2026-10-31
+
+- **No more scrambled carpet and cabinets.** Partway through a session the carpet could turn to static or flat purple and the
+  sides of the cabinets go white. The shop's printed art (carpet, cabinet sides, posters) is now kept as ordinary pictures
+  on phones, which hold up for the whole session. (Thanks to the tester who sent this with /bug and a screen recording.)
+
 ### 0.11.48.1 — 2026-10-31
 
 - **Smoother frame rate on phones.** On the shop floor the frame rate could keep jumping up and down, dropping as low as
