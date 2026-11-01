@@ -43,6 +43,13 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.48.1 — 2026-10-31
+
+- **Smoother frame rate on phones.** On the shop floor the frame rate could keep jumping up and down, dropping as low as
+  15 fps. The floor's movement now steps exactly once per frame on a phone, and "no cap" on a phone now means a steady
+  60 fps instead of running the screen flat out until the phone heats up and slows down. You can still pick 120 fps in
+  Settings › Display & Touch › Frame Rate Cap. (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.47.1 — 2026-10-31
 
 - **Your staff stay put while you play.** Playing a game at a cabinet made every member of staff walk out and come back in
