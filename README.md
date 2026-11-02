@@ -43,6 +43,15 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.50.1 — 2026-11-02
+
+- **The scrambled-shop glitch, fixed properly this time.** The last fix for the shop turning into static and stretched shapes
+  partway through a session made phones hold more graphics memory, not less. The shop now builds with far less at its peak,
+  and lets go of the floor's pictures while you're playing a cabinet game instead of carrying them along. (Thanks again to
+  the tester who sent the second recording.)
+- **Stools at the cocktail tables.** Customers now sit on a stool to play the cocktail-table machines instead of folding
+  over the glass. The stool takes up floor space: you can't set another machine down on it, and customers walk around it.
+
 ### 0.11.49.1 — 2026-10-31
 
 - **No more scrambled carpet and cabinets.** Partway through a session the carpet could turn to static or flat purple and the
