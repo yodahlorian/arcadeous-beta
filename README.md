@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.51.1 — 2026-11-02
+
+- **Cocktail tables are back to how they were.** The stools in 0.11.50 went out before they were finished; they'll return
+  when they're ready. The memory fix from 0.11.50 stays.
+
 ### 0.11.50.1 — 2026-11-02
 
 - **The scrambled-shop glitch, fixed properly this time.** The last fix for the shop turning into static and stretched shapes
