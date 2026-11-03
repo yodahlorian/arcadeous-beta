@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.52.1 — 2026-11-03
+
+- **The OPEN sign is easy to switch.** Opening or closing the arcade meant lining your view up with the very middle of the
+  sign, which was fiddly up close — the prompt now shows whenever you're looking at any part of the sign.
+  (Thanks to the tester who sent this with /bug.)
+
 ### 0.11.51.1 — 2026-11-02
 
 - **Cocktail tables are back to how they were.** The stools in 0.11.50 went out before they were finished; they'll return
