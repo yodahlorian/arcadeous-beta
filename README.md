@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.53.1 — 2026-11-03
+
+- **Come and hang out.** The title screen and the pause menu now have a button to join our Discord
+  (discord.gg/xftJz6JvGU) — news, betas, and the people who make the game.
+
 ### 0.11.52.1 — 2026-11-03
 
 - **The OPEN sign is easy to switch.** Opening or closing the arcade meant lining your view up with the very middle of the
