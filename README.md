@@ -43,6 +43,14 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.54.1 — 2026-11-03
+
+- **Placing a machine no longer opens its neighbour's menu.** Setting a machine down (or moving one) with PLACE could also
+  open the menu of a cabinet standing nearby — the one tap did both. It only places now.
+- **Report a bug works on phones.** The report is saved in the app's own storage, and if anything goes wrong the menu says so
+  in the middle of the screen instead of a message hidden at the bottom edge. The question to send it sits on screen too.
+  (Thanks to the tester who sent both of these with /bug.)
+
 ### 0.11.53.1 — 2026-11-03
 
 - **Come and hang out.** The title screen and the pause menu now have a button to join our Discord
