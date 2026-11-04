@@ -43,6 +43,12 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.55.1 — 2026-11-03
+
+- **A machine you moved answers again.** After moving a cabinet, standing in front of it could show the prompt and open the
+  menu of a different machine nearby — and the moved one had no menu at all until the app was restarted. Each moved machine
+  now answers from its own front. (Thanks to the tester who sent the recording.)
+
 ### 0.11.54.1 — 2026-11-03
 
 - **Placing a machine no longer opens its neighbour's menu.** Setting a machine down (or moving one) with PLACE could also
