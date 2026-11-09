@@ -43,6 +43,16 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.56.1 — 2026-11-09
+
+- **Placing a machine no longer opens its neighbour's menu (again).** One more way the PLACE tap could also reach a cabinet
+  nearby is closed: while you are placing or moving a machine, nothing else on the floor answers.
+- **Cloud saves upload when you leave the app.** Switching away or closing the app now really sends your latest save to the
+  cloud; before, that upload could fail without a word.
+- **Joysticks sit on their washers.** The stick on every joystick cabinet floated a little above its base. Fixed.
+- **Better bug reports.** Report a bug now includes a short record of the last session, so a crash can be traced even after
+  the app has been reopened. (Thanks to the Android tester who tested build after build this week.)
+
 ### 0.11.55.1 — 2026-11-03
 
 - **A machine you moved answers again.** After moving a cabinet, standing in front of it could show the prompt and open the
