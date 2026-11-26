@@ -43,6 +43,11 @@ buttons are the cabinet's own buttons. Menus are plain taps; ✕ BACK is bottom-
 
 
 
+### 0.11.57.1 — 2026-11-25
+
+- **Same build as the PC and Steam release (0.11.57).** Its change is for PC: a controller can type in every text box through
+  an on-screen keyboard. On a phone your own keyboard still opens as before, so nothing changes here.
+
 ### 0.11.56.1 — 2026-11-09
 
 - **Placing a machine no longer opens its neighbour's menu (again).** One more way the PLACE tap could also reach a cabinet
